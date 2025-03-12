@@ -53,7 +53,7 @@ You can use **Excel, Python (Pandas, Matplotlib, Seaborn), or Tableau** to creat
 - **Submit a pull request** with new visualizations or analysis
 
 ## 🔗 Links
-- **LinkedIn Post:** [Insert Link]
+- **LinkedIn Post:** [https://www.linkedin.com/in/kamran-khan-b02374340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 - **GitHub Repository:** [Insert Link]
 
 ---
